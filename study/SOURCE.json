@@ -1,0 +1,12 @@
+{
+  "upstream": "taniarascia/takenote",
+  "name": "takenote-study",
+  "source_commit": "e0eddbb9a21ae4cf4c4c7c183f29cfd666e08331",
+  "branch": "master",
+  "archived": false,
+  "upstream_url": "https://github.com/taniarascia/takenote",
+  "license": "MIT",
+  "added": "2026-10-07",
+  "purpose": "Attributed source study; original upstream implementation and authors preserved.",
+  "validation": "Documentation paths and unchanged source/license checked. Application tests not run."
+}

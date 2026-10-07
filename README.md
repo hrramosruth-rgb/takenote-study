@@ -1,3 +1,11 @@
+# Ruth Ramos — React and Redux note-taking Study Fork
+
+Attributed study fork of [taniarascia/takenote](https://github.com/taniarascia/takenote), under the preserved [MIT license](LICENSE). Upstream code and history retain their original authors.
+
+The additions are [source study notes](study/STUDY.md) and a [pinned source record](study/SOURCE.json), created in October 2026. This fork does not claim original authorship or work performed in 2021–2023. Application tests have not been run for this documentation-only addition.
+
+---
+
 <p align="center">
   <img src="./assets/logo.png">
 </p>
